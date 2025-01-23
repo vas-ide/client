@@ -1,0 +1,6 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/vas-ide/storage v0.0.1 h1:x0nLjYatQX4H5ryqFLyvNevMkZmeSwt0b1wOPtXVnwE=
+github.com/vas-ide/storage v0.0.1/go.mod h1:sak0hFVJ6X2tBlRx3wdymECAcS82nYW0neAw2KU3tN0=
+github.com/vas-ide/storage/v2 v2.0.0 h1:KYCg84V4phK6vPolVLfjKCeqU5Ybhb0OuvHoA3siUJ0=
+github.com/vas-ide/storage/v2 v2.0.0/go.mod h1:as40+Z/eaz1yU8k97OCQJVH0SVHT6Cln6ym6dOu+RX4=
